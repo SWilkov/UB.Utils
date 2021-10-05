@@ -3,7 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Description>Helper functions for dependency injection</Description>
+    <Description>Helper functions for dependency injection to help with testing</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SWilkov/UB.Utils</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
